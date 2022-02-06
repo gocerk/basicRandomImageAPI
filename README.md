@@ -2,10 +2,10 @@
 
 # SETUP
 You can setup it by 
-	npm install
+	```npm install```
 
 and Run by
-	node server.js
+	```node server.js```
 
 
 # Routes 
